@@ -1,6 +1,6 @@
 module.exports = [
     {
-        name: "photo_resistor_block",
+        name: "KY-016 RGB FULL COLOR LED MODULE",
         blocks: [
             {
               xml: `<block type="rgb_block">
